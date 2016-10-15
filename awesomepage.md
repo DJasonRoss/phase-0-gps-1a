@@ -5,4 +5,4 @@
 
 [Link!](https://www.google.com)
 
-![Screenshot](https://github.com/DJasonRoss/phase-0-gps-1a/gps11.jpg "GPS11 Screen")
+![Screenshot](GPS11.JPG "GPS11 Screen")
